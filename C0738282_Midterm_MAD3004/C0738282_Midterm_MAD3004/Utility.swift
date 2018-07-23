@@ -1,13 +1,6 @@
-//
-//  Utility.swift
-//  MANUFACTURER
-//
-//  Created by MacStudent on 2018-07-23.
-//  Copyright © 2018 prem. All rights reserved.
-//
 
 import Foundation
-with func getDate(year: Int, month: Int, day: Int) -> Date
+func getDate(year: Int, month: Int, day: Int) -> Date
     
 {
     
@@ -29,4 +22,4 @@ with func getDate(year: Int, month: Int, day: Int) -> Date
     
 }
 
-}
+ 
